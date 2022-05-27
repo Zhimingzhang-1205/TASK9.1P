@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lost and Found Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyDbePzL-ukukMtNsEZPsSFZsH-NEnzl2uQ</string>
+</resources>
